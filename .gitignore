@@ -1,0 +1,4 @@
+venv/ 
+3.7/
+
+#add a forward slash after the name of the folder you want to exclude
